@@ -1,0 +1,12 @@
+Library/
+Logs/
+Temp/
+obj/
+.vs/
+.vscode/
+UserSettings/
+Build/
+*.apk
+*.exe
+*.csproj
+bubble shooter.sln
