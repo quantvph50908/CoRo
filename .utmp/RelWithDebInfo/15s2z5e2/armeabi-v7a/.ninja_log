@@ -1,0 +1,12 @@
+# ninja log v5
+81	331	7627592191906838	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	e539bfa9498a0993
+333	555	7627592194153020	D:/TMCT/bubble shooter/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/15s2z5e2/obj/armeabi-v7a/libswappywrapper.so	3d9bc05ad15407bd
+21	1162	7627592200192781	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	abbf9bf143f29919
+61	1317	7627592201735313	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	43ddecdee769320
+28	1340	7627592201988695	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f0376287285f33b2
+8	1351	7627592202090337	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	bd9249e1ca568a82
+51	1442	7627592203027870	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e39cf23fb6ea7958
+15	1517	7627592203690177	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c3d822c6c122a9c3
+33	1737	7627592205920956	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8fd7ebeabda88423
+1	1882	7627592207308578	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	76c443d1a0f1f37
+1882	2007	7627592208721984	D:/TMCT/bubble shooter/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/15s2z5e2/obj/armeabi-v7a/libgame.so	ef1e66446cad024a
